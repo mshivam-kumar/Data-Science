@@ -1,5 +1,5 @@
 # Data-Science
-##Questions that were solved inside chicago_data_analysis with three datasets (chicago_crime_data, chicago_census_data, chicago_public_schools_data ) - </br>
+## Questions that were solved inside chicago_data_analysis with three datasets (chicago_crime_data, chicago_census_data, chicago_public_schools_data ) - </br>
 1. The average safety score for all types of schools. Ans : 49.50487329434698 </br>
 2. Community areas with per capita income less than 11000. Ans : ('West Garfield Park',) ('South Lawndale',) ('Fuller Park',)('Riverdale',)</br>
 3. Five community areas with highest % of households below poverty line. Ans : (Riverdale, Fuller Park, Englewood, North Lawndale, 
